@@ -1,1 +1,1 @@
-# gnn_topic_modelling
+# Topic Modelling via Graph Neural Nets
